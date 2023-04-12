@@ -191,7 +191,7 @@ button{
 .banner-wrapper{
     width: 100%;
     height: auto;
-    min-height: 1000px;
+    min-height: 50px;
     background-image: url(images/bg-image.jpg);
     background-repeat: no-repeat;
     background-position: center;
